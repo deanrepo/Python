@@ -1,0 +1,4 @@
+说明:
+1.安装pyinstaller: pip install pyinstaller
+2.在工程根目录对入口主py文件(管理员身份打开终端):执行 pyinstaller -F script_file_name.py -n exe_name 命令
+3.在执行完成后生产的目标文件保存在dst目录中
